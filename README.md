@@ -141,7 +141,7 @@ class Teacher extends User {
 }
 
 tom.sayHello()
-// Hello, my name is fred
+// Hello, my name is tom
 // hello
 ```
 
